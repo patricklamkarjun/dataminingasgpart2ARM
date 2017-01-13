@@ -1,0 +1,9 @@
+1) To understand what is the popular food/drink in the shop, and learn if there are any food and drink customer will order together everytime they come. With the data pattern owner can improve their market strategy to attract more customer.
+
+2) The dataset contain the ID of the food and drinks and 1000 transaction record. 
+
+3) minimum len=1, support =0.01, confidence=0.25; control=list(verbose=F); time required = 9.41
+
+4) 
+
+5) Introduce some combo set with special price that the food and drink in the set are overwhelmed according to the data pattern from association rule mining.
